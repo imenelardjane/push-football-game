@@ -3,8 +3,6 @@ A soccer game without the ball, made for a game jam where the theme was
 "Genre X without Y". Five attackers run at your goal, and your only
 tool is your body: push them away until the time runs out.
 
-**Play it here:** https://imenelardjane.github.io/push-football/
-
 ## How to play
 - Move your goalkeeper with the **arrow keys**.
 - Touch an attacker to knock them back.
